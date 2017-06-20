@@ -261,7 +261,9 @@ void load_data()
 	}
 }
 
+
 #include <strstream>
+
 
 int main(int argc, char* argv[])
 {
