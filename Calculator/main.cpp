@@ -1,7 +1,6 @@
 // The desk calulator
 
 // reads from standard input or command line 
-
 // uses namespaces and no exceptions
 
 #include <map>
